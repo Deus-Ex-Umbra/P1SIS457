@@ -1,0 +1,7 @@
+C:\Users\USUARIO\Desktop\P1SIS457\Intermediate\Build\Win64\UE4Editor\Development\P1SIS457\Definitions.P1SIS457.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\USUARIO\Desktop\P1SIS457\Source\P1SIS457/PelotaDeRoca.h
+C:\Users\USUARIO\Desktop\P1SIS457\Source\P1SIS457\Pelota.h
+C:\Users\USUARIO\Desktop\P1SIS457\Intermediate\Build\Win64\UE4Editor\Inc\P1SIS457\Pelota.generated.h
+C:\Users\USUARIO\Desktop\P1SIS457\Intermediate\Build\Win64\UE4Editor\Inc\P1SIS457\PelotaDeRoca.generated.h

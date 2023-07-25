@@ -1,0 +1,5 @@
+C:\Users\USUARIO\Desktop\P1SIS457\Intermediate\Build\Win64\UE4Editor\Development\P1SIS457\Definitions.P1SIS457.h
+C:\Users\USUARIO\Desktop\P1SIS457\Source\P1SIS457\PelotaDeRoca.h
+C:\Users\USUARIO\Desktop\P1SIS457\Source\P1SIS457\Pelota.h
+C:\Users\USUARIO\Desktop\P1SIS457\Intermediate\Build\Win64\UE4Editor\Inc\P1SIS457\Pelota.generated.h
+C:\Users\USUARIO\Desktop\P1SIS457\Intermediate\Build\Win64\UE4Editor\Inc\P1SIS457\PelotaDeRoca.generated.h

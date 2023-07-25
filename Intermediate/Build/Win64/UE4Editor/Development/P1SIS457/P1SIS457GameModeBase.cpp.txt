@@ -1,0 +1,17 @@
+C:\Users\USUARIO\Desktop\P1SIS457\Intermediate\Build\Win64\UE4Editor\Development\P1SIS457\Definitions.P1SIS457.h
+C:\Users\USUARIO\Desktop\P1SIS457\Source\P1SIS457\P1SIS457GameModeBase.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+C:\Users\USUARIO\Desktop\P1SIS457\Intermediate\Build\Win64\UE4Editor\Inc\P1SIS457\P1SIS457GameModeBase.generated.h
+C:\Users\USUARIO\Desktop\P1SIS457\Source\P1SIS457\Pelota.h
+C:\Users\USUARIO\Desktop\P1SIS457\Intermediate\Build\Win64\UE4Editor\Inc\P1SIS457\Pelota.generated.h
+C:\Users\USUARIO\Desktop\P1SIS457\Source\P1SIS457\PelotaBrillosa.h
+C:\Users\USUARIO\Desktop\P1SIS457\Intermediate\Build\Win64\UE4Editor\Inc\P1SIS457\PelotaBrillosa.generated.h
+C:\Users\USUARIO\Desktop\P1SIS457\Source\P1SIS457\PelotaDeRoca.h
+C:\Users\USUARIO\Desktop\P1SIS457\Intermediate\Build\Win64\UE4Editor\Inc\P1SIS457\PelotaDeRoca.generated.h
+C:\Users\USUARIO\Desktop\P1SIS457\Source\P1SIS457\PelotaDeAgua.h
+C:\Users\USUARIO\Desktop\P1SIS457\Intermediate\Build\Win64\UE4Editor\Inc\P1SIS457\PelotaDeAgua.generated.h
+C:\Users\USUARIO\Desktop\P1SIS457\Source\P1SIS457\PelotaPequenia.h
+C:\Users\USUARIO\Desktop\P1SIS457\Intermediate\Build\Win64\UE4Editor\Inc\P1SIS457\PelotaPequenia.generated.h

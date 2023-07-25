@@ -1,0 +1,2 @@
+C:\Users\USUARIO\Desktop\P1SIS457\Intermediate\Build\Win64\UE4Editor\Development\P1SIS457\Definitions.P1SIS457.h
+C:\Users\USUARIO\Desktop\P1SIS457\Source\P1SIS457\P1SIS457.h
